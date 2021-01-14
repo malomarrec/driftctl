@@ -14,3 +14,4 @@ Resource listing is done using cloud providers SDK, then resource details retrie
 - `Remote` A remote is a representation of a cloud provider
 - `Resource` A resource is an abstract representation of a cloud provider resource (e.g. S3 bucket, EC2 instance, etc ...)
 - `ResourceSupplier` It should exist only one ResourceSupplier per resource. A ResourceSupplier is used to list resources from a given type on a given remote and return a resource list.
+Hello World
